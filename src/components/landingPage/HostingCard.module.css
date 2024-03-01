@@ -1,0 +1,7 @@
+.ratingCard {
+  width: fit-content;
+}
+.numberDiv {
+  width: 40px;
+  aspect-ratio: 1/1;
+}

@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --blue-color: #1b88f4;
+}
+.text-color {
+  color: #4b5665;
+}
+.blue-bg {
+  background-color: #1b88f4;
+}
+html,
+body {
+  overflow-x: hidden;
+}
